@@ -1,1 +1,1 @@
-ALX School
+touch alx-school
