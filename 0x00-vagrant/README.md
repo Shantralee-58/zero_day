@@ -1,3 +1,1 @@
-!#/bin/bash
-
-echo "vagrant"
+ALX School
